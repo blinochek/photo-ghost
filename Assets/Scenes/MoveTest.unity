@@ -649,7 +649,7 @@ MonoBehaviour:
   runningSpeedMultiplier: 1.5
   stunDuration: 2
   hitMaterial: {fileID: 2100000, guid: 1228e5128d29a3340b4eac4cbd5736f5, type: 2}
-  screenRenderer: {fileID: 2088036245}
+  screenRenderer: {fileID: 421492672}
 --- !u!54 &2088036248
 Rigidbody:
   m_ObjectHideFlags: 0
